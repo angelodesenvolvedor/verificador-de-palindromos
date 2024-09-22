@@ -1,23 +1,32 @@
+Aqui está uma versão atualizada do seu `README.md`, incluindo badges do repositório que você mencionou:
+
+```markdown
 # Verificador de Palíndromos
+
+![GitHub repo size](https://img.shields.io/github/repo-size/angelodesenvolvedor/verificador-de-palindromos)
+![GitHub language count](https://img.shields.io/github/languages/count/angelodesenvolvedor/verificador-de-palindromos)
+![GitHub forks](https://img.shields.io/github/forks/angelodesenvolvedor/verificador-de-palindromos)
+![GitHub stars](https://img.shields.io/github/stars/angelodesenvolvedor/verificador-de-palindromos?style=social)
+
 Um aplicativo web simples que verifica se uma palavra ou frase fornecida é um palíndromo.
 
-🔥 **Introdução**
+🔥 **Introdução**  
 Este projeto é um verificador de palíndromos que permite ao usuário inserir uma palavra ou frase e verificar se ela é um palíndromo. As funcionalidades incluem um histórico das verificações realizadas e uma interface responsiva.
 
-⚙️ **Pré-requisitos**
+⚙️ **Pré-requisitos**  
 Para instalar e executar o projeto, você precisará ter os seguintes softwares instalados:
 
 - [Node.js](https://nodejs.org/) (versão 14 ou superior)
 - [npm](https://www.npmjs.com/) (geralmente instalado com o Node.js)
 
-🔨 **Guia de instalação**
+🔨 **Guia de instalação**  
 Siga as etapas abaixo para configurar o ambiente de desenvolvimento e executar o projeto.
 
 **Etapas para instalar:**
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/verificador-de-palindromos.git
+   git clone https://github.com/angelodesenvolvedor/verificador-de-palindromos.git
    ```
 
 2. **Navegue até o diretório do projeto:**
@@ -30,7 +39,7 @@ Siga as etapas abaixo para configurar o ambiente de desenvolvimento e executar o
    npm install
    ```
 
-🛠️ **Executando os testes**
+🛠️ **Executando os testes**  
 Para executar os testes automatizados (se houver), utilize o seguinte comando:
 
 ```bash
@@ -42,7 +51,7 @@ npm test
 Resultados dos testes...
 ```
 
-📦 **Tecnologias usadas:**
+📦 **Tecnologias usadas:**  
 Este projeto utiliza as seguintes tecnologias:
 
 - **Front-end:**
@@ -51,8 +60,8 @@ Este projeto utiliza as seguintes tecnologias:
   - TypeScript
   - Tailwind CSS
 
-👷 **Autor**
-- Ângelo Silvano - Desenvolvedor Principal - [@angelosilvano](https://github.com/angelodesenvolvedor)
+👷 **Autores**  
+- Ângelo Silvano - Desenvolvedor Principal - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
-📄 **Licença**
-- Este projeto está sob a licença MIT - acesse os detalhes em `LICENSE`.
+📄 **Licença**  
+Este projeto está sob a licença MIT - acesse os detalhes em `LICENSE`.
