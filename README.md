@@ -1,8 +1,3 @@
-Aqui está o `README.md` atualizado apenas com os ícones das tecnologias usadas:
-
-```markdown
-![Logo do projeto](https://i.imgur.com/kniMQHu.png)
-
 # Verificador de Palíndromos
 
 Um aplicativo web simples que verifica se uma palavra ou frase fornecida é um palíndromo.
