@@ -1,3 +1,8 @@
+Aqui está o `README.md` atualizado apenas com os ícones das tecnologias usadas:
+
+```markdown
+![Logo do projeto](https://i.imgur.com/kniMQHu.png)
+
 # Verificador de Palíndromos
 
 Um aplicativo web simples que verifica se uma palavra ou frase fornecida é um palíndromo.
@@ -29,31 +34,27 @@ Siga as etapas abaixo para configurar o ambiente de desenvolvimento e executar o
    cd verificador-de-palindromos
    ```
 
-3. **Instale as dependências:**
+3. **Instale as dependências do Next.js:**
    ```bash
    npm install
    ```
 
-## 🛠️ Executando os testes
-
-Para executar os testes automatizados (caso existam), utilize o seguinte comando:
-
-```bash
-npm test
-```
+4. **Execute o projeto:**
+   ```bash
+   npm run dev
+   ```
 
 ## 📦 Tecnologias usadas:
 
-* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-* ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 👷 Autores
 
-* **Ângelo Silvano** - *Desenvolvedor Principal* - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
+* **Ângelo Silvano** - *Desenvolvedor Principal e Front-End Developer* - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
 ## 📄 Licença
 
-Esse projeto está sob a licença MIT - acesse os detalhes em [LICENSE.md](https://github.com/angelodesenvolvedor/verificador-de-palindromos/blob/main/LICENSE).
-
+* Esse projeto está sob a licença MIT - acesse os detalhes em [LICENSE.md](https://github.com/angelodesenvolvedor/verificador-de-palindromos/blob/main/LICENSE).
