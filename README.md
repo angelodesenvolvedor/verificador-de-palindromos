@@ -29,12 +29,7 @@ Siga as etapas abaixo para configurar o ambiente de desenvolvimento e executar o
    cd verificador-de-palindromos
    ```
 
-3. **Instale as dependências do Next.js:**
-   ```bash
-   npm install
-   ```
-
-4. **Execute o projeto:**
+3. **Execute o projeto:**
    ```bash
    npm run dev
    ```
