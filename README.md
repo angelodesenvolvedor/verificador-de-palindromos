@@ -1,6 +1,3 @@
-Aqui está uma versão atualizada do seu `README.md`, incluindo badges do repositório que você mencionou:
-
-```markdown
 # Verificador de Palíndromos
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/angelodesenvolvedor/verificador-de-palindromos)
