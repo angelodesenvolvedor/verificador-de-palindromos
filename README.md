@@ -41,9 +41,9 @@ Siga as etapas abaixo para configurar o ambiente de desenvolvimento e executar o
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 👷 Autores
+## 👷 Autor
 
-* **Ângelo Silvano** - *Desenvolvedor Principal e Front-End Developer* - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
+* **Ângelo Silvano** - *Front-End Developer* - [@angelodesenvolvedor](https://github.com/angelodesenvolvedor)
 
 ## 📄 Licença
 
